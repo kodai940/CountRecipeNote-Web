@@ -1,5 +1,7 @@
 # RepiRepi
 
+[English Ver. >>](en)
+
 ## お問い合わせ
 アプリに関するお問い合わせは、以下のメールアドレスまでお願いいたします。
 nks.developer.7240@gmail.com
