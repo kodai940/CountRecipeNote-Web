@@ -8,7 +8,7 @@ nks.developer.7240@gmail.com
 
 ## Privacy Policy / Terms of Use
 1. Introduction
-“RepiRepi” (hereinafter referred to as the “Application”) is a smartphone application (hereinafter referred to as the “Application”). By using this Application, you are deemed to have agreed to these Terms of Use.
+“RecipeNote” (hereinafter referred to as the “Application”) is a smartphone application (hereinafter referred to as the “Application”). By using this Application, you are deemed to have agreed to these Terms of Use.
 2. Information to be Collected
 When you use the Application, we will collect the following user information:
 
